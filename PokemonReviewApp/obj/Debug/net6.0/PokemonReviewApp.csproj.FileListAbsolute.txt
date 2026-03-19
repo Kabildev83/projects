@@ -1,0 +1,7 @@
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.AssemblyReference.cache
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfoInputs.cache
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfo.cs
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rapid User 1\source\repos\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
